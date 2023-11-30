@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/qazi__zaid" target="blank"><img src="https://img.shields.io/twitter/follow/qazi__zaid?logo=twitter&style=for-the-badge" alt="qazi__zaid" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA SCRIPT**
 
 - 💬 Ask me about **UI/UX, HTML**
 
