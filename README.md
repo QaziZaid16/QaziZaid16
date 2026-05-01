@@ -1,32 +1,139 @@
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-<h1 align="center">Hi 👋, I'm Qazi Zaid</h1>
-<h3 align="center">A passionate frontend developer from India, Eager to learn new stuff...</h3>
-<img align="right" alt="Coding" width="400" src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qazizaid16&label=Profile%20views&color=0e75b6&style=flat" alt="qazizaid16" /> </p>
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Qazi%20Zaid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
 
-<p align="left"> <a href="https://twitter.com/qazi__zaid" target="blank"><img src="https://img.shields.io/twitter/follow/qazi__zaid?logo=twitter&style=for-the-badge" alt="qazi__zaid" /></a> </p>
+</div>
 
-- 🌱 I’m currently learning **JAVA SCRIPT**
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;JavaScript+Learner+%F0%9F%93%9A;Building+beautiful+web+experiences+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-- 💬 Ask me about **UI/UX, HTML**
+<br/>
 
-- 📫 How to reach me **qazi.zaid16@gmail.com**
+<!-- About Me -->
+<div align="center">
 
-- ⚡ Fun fact **I have a dark humor**
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/qazi__zaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qazi__zaid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/qazi-zaid-73a511209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qazi-zaid-73a511209" height="30" width="40" /></a>
-<a href="https://instagram.com/sil3ntjazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sil3ntjazz" height="30" width="40" /></a>
+</div>
+
+```javascript
+const qaziZaid = {
+  location: "India 🇮🇳",
+  currentlyLearning: ["JavaScript", "React", "Advanced CSS"],
+  expertise: ["HTML5", "CSS3", "UI/UX Design", "Figma", "Adobe XD"],
+  askMeAbout: ["UI/UX", "HTML", "Frontend Design"],
+  funFact: "I have a dark humor 😄",
+  contact: "qazi.zaid16@gmail.com",
+  goal: "Building pixel-perfect, user-friendly interfaces 🎯"
+};
+```
+
+<br/>
+
+<!-- GitHub Stats - Three Cards Row -->
+<div align="center">
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qazizaid16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qazizaid16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qazizaid16&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qazizaid16&show_icons=true&locale=en&layout=compact" alt="qazizaid16" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qazizaid16&show_icons=true&locale=en" alt="qazizaid16" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qazizaid16&" alt="qazizaid16" /></p>
+<!-- Activity Graph -->
+<div align="center">
+
+## 📈 Contribution Graph
+
+[![Qazi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qazizaid16&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+<!-- Tech Stack -->
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Frontend & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,xd&theme=dark" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,ps&theme=dark" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- Currently Learning -->
+<div align="center">
+
+## 🌱 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,ts&theme=dark" />
+</p>
+
+> *"The best investment you can make is in yourself."* – Warren Buffett
+
+</div>
+
+<br/>
+
+<!-- Connect With Me -->
+<div align="center">
+
+## 🤝 Connect With Me
+
+<a href="https://twitter.com/qazi__zaid" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://linkedin.com/in/qazi-zaid-73a511209" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/sil3ntjazz" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:qazi.zaid16@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- Profile Views & Trophies -->
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=qazizaid16&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+
+</div>
+
+<br/>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=qazizaid16&label=Profile+Views&color=7c3aed&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/qazizaid16?label=Followers&style=for-the-badge&color=7c3aed)
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
