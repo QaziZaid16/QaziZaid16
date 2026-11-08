@@ -1,139 +1,422 @@
-<div align="center">
+ <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Qazi%20Zaid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=ZAID.EXE&fontSize=90&fontColor=00F0FF&stroke=A5FF00&strokeWidth=2&animation=twinkling&desc=THE%20DEVELOPER%20ARCADE&descSize=20&descColor=FF4FA3&descAlignY=72&color=0:080A12,45:17133A,100:071B2B" width="100%" />
 
-</div>
-
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;JavaScript+Learner+%F0%9F%93%9A;Building+beautiful+web+experiences+%E2%9C%A8" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=600&color=00F0FF&center=true&vCenter=true&width=750&lines=INITIALIZING+PLAYER+PROFILE...;FULL-STACK+SORCERER+%E2%9A%A1;AI+ENGINEER+%F0%9F%94%AE;DEVOPS+PALADIN+%F0%9F%9B%A1%EF%B8%8F;COMMUNITY+BUILDER+%F0%9F%A4%9D;SYSTEM+READY.+LET'S+BUILD." />
 
 <br/>
 
-<!-- About Me -->
-<div align="center">
+<img src="https://img.shields.io/badge/●_PLAYER-ONLINE-00F0FF?style=for-the-badge&labelColor=080A12" />
+<img src="https://img.shields.io/badge/CLASS-SORCERER-A855F7?style=for-the-badge&labelColor=080A12" />
+<img src="https://img.shields.io/badge/SUBCLASS-PALADIN-A5FF00?style=for-the-badge&labelColor=080A12" />
+<img src="https://img.shields.io/badge/GUILD-D4_COMMUNITY-FF4FA3?style=for-the-badge&labelColor=080A12" />
 
-## 🧑‍💻 About Me
+<br/><br/>
+
+[![PORTFOLIO](https://img.shields.io/badge/ENTER_THE_REALM-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=080A12)](https://zaid.d4community.com)
+[![GITHUB](https://img.shields.io/badge/GITHUB_HQ-17133A?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/QaziZaid16)
+[![LINKEDIN](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/qazi-zaid/)
 
 </div>
 
-```javascript
-const qaziZaid = {
-  location: "India 🇮🇳",
-  currentlyLearning: ["JavaScript", "React", "Advanced CSS"],
-  expertise: ["HTML5", "CSS3", "UI/UX Design", "Figma", "Adobe XD"],
-  askMeAbout: ["UI/UX", "HTML", "Frontend Design"],
-  funFact: "I have a dark humor 😄",
-  contact: "qazi.zaid16@gmail.com",
-  goal: "Building pixel-perfect, user-friendly interfaces 🎯"
-};
+---
+
+<div align="center">
+
+### `BOOT SEQUENCE // 001`
+
+<img src="https://img.shields.io/badge/SYSTEM-INITIALIZED-00F0FF?style=flat-square" />
+<img src="https://img.shields.io/badge/PLAYER-IDENTIFIED-A5FF00?style=flat-square" />
+<img src="https://img.shields.io/badge/QUESTS-AVAILABLE-A855F7?style=flat-square" />
+
+</div>
+
+```text
+  ╔══════════════════════════════════════════════════════════╗
+  ║                   PLAYER DOSSIER                         ║
+  ╠══════════════════════════════════════════════════════════╣
+  ║                                                          ║
+  ║   NAME       : QAZI ZAID                                 ║
+  ║   CLASS      : FULL-STACK SORCERER                       ║
+  ║   SUBCLASS   : DEVOPS PALADIN                            ║
+  ║   SPECIALTY  : AI + PRODUCT ENGINEERING                  ║
+  ║   GUILD      : D4 COMMUNITY                              ║
+  ║   REGION     : INDIA                                     ║
+  ║                                                          ║
+  ║   CURRENT MISSION: BUILD SOMETHING THAT MATTERS          ║
+  ║                                                          ║
+  ╚══════════════════════════════════════════════════════════╝
 ```
 
-<br/>
+> I build intelligent products, experiment with emerging technologies, and bring developers together. I enjoy turning ambitious ideas into working software and building communities where people can learn, collaborate and grow.
 
-<!-- GitHub Stats - Three Cards Row -->
+---
+
 <div align="center">
 
-## 📊 GitHub Stats
+# `02 // CHARACTER ATTRIBUTES`
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qazizaid16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qazizaid16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qazizaid16&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
+*Every player has a different build.*
 
 </div>
 
-<br/>
+| ATTRIBUTE | SPECIALIZATION | SKILL TREE |
+|:---|:---|:---|
+| 🧠 INTELLIGENCE | AI / ML / Agentic Systems | `UNLOCKED` |
+| ⚡ DEXTERITY | Full-Stack Engineering | `UNLOCKED` |
+| 🛡️ DEFENCE | Backend / Databases | `UNLOCKED` |
+| 🔮 WISDOM | Architecture / Problem Solving | `UNLOCKED` |
+| 🤝 CHARISMA | Community / Collaboration | `UNLOCKED` |
 
-<!-- Activity Graph -->
+### PLAYER PROGRESSION
+
+```text
+╭──────────────────────────────────────────────────────────╮
+│  PLAYER RANK       : PRODUCT BUILDER                      │
+│  LEVEL             : PROGRESSION IN PROCESS               │
+│  XP                : REAL ACTIVITY TRACKED BELOW          │
+│                                                          │
+│  QUESTS COMPLETED  : SEE QUEST BOARD                      │
+│  SKILLS ACQUIRED   : SEE INVENTORY                        │
+│  NEXT OBJECTIVE    : SHIP THE NEXT BIG IDEA               │
+╰──────────────────────────────────────────────────────────╯
+```
+
+*RPG attributes and ranks are thematic labels. GitHub statistics below show account activity rather than fabricated XP.*
+
+---
+
 <div align="center">
 
-## 📈 Contribution Graph
+# `03 // THE INVENTORY`
 
-[![Qazi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qazizaid16&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+`EQUIPPED` · `COLLECTED` · `UPGRADABLE`
 
 </div>
 
-<br/>
+### 🔮 ARCANE INVENTORY — AI & LANGUAGES
 
-<!-- Tech Stack -->
+| ITEM | EQUIPMENT | RARITY |
+|:---|:---|:---:|
+| 🪄 | Python Staff +3 | 🟣 EPIC |
+| 🔥 | PyTorch Neural Forge | 🟣 EPIC |
+| 🕸️ | LangGraph Grimoire | 🟣 EPIC |
+| 💎 | FAISS Semantic Crystal | 🔵 RARE |
+| ⚙️ | C / C++ Systems Core | 🔵 RARE |
+| 📜 | Java Spellbook | 🔵 RARE |
+
+### ⚔️ ENGINEERING INVENTORY — FULL STACK
+
+| ITEM | EQUIPMENT | RARITY |
+|:---|:---|:---:|
+| 📘 | React Tome +3 | 🟣 EPIC |
+| ⚡ | JavaScript / TypeScript Blade | 🟣 EPIC |
+| 🗡️ | Node.js Backend Weapon | 🟣 EPIC |
+| 🧙 | FastAPI Conjuring Wand | 🔵 RARE |
+| 🧳 | MongoDB Data Vault | 🔵 RARE |
+| 🏛️ | PostgreSQL Codex | 🔵 RARE |
+| 🎨 | HTML / CSS Design Kit | 🔵 RARE |
+
+### 🛡️ PALADIN INVENTORY — DEVOPS & TOOLS
+
+| ITEM | EQUIPMENT | RARITY |
+|:---|:---|:---:|
+| 🛡️ | Docker Container Shield | 🟣 EPIC |
+| 🥊 | GitHub Version Gauntlets | 🟡 LEGENDARY |
+| 👢 | Vercel Deployment Boots | 🔵 RARE |
+| 💠 | Supabase Cloud Relic | 🔵 RARE |
+| 🔗 | n8n Automation Chain | 🟣 EPIC |
+| 🎭 | Figma Vision Lens | 🔵 RARE |
+| 🗝️ | Linux Terminal Key | 🔵 RARE |
+
+---
+
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+# `04 // WORLD MAP`
 
-### 🎨 Frontend & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,xd&theme=dark" />
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,ps&theme=dark" />
-</p>
+`CHOOSE YOUR TERRITORY`
 
 </div>
 
-<br/>
+<table>
+<tr>
+<td align="center" width="33%">
 
-<!-- Currently Learning -->
+### 🌆 CODE CITY
+
+<img src="https://img.shields.io/badge/ZONE-01-00F0FF?style=for-the-badge&labelColor=080A12" />
+
+Full-stack development
+
+Backend systems
+
+Product engineering
+
+</td>
+<td align="center" width="33%">
+
+### 🔮 AI REALM
+
+<img src="https://img.shields.io/badge/ZONE-02-A855F7?style=for-the-badge&labelColor=080A12" />
+
+Machine learning
+
+AI agents
+
+Intelligent applications
+
+</td>
+<td align="center" width="33%">
+
+### 🏰 GUILD HALL
+
+<img src="https://img.shields.io/badge/ZONE-03-A5FF00?style=for-the-badge&labelColor=080A12" />
+
+Community building
+
+Developer events
+
+Collaboration
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-## 🌱 Currently Learning
+# `05 // QUEST BOARD`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,ts&theme=dark" />
-</p>
-
-> *"The best investment you can make is in yourself."* – Warren Buffett
+`TWO MISSIONS IN THE ARCHIVE`
 
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/QUEST_001-COMPLETED-A5FF00?style=for-the-badge&labelColor=080A12" />
+
+### 📜 DOCUMENT Q&A SYSTEM
+
+**MISSION TYPE:** AI / Document Intelligence
+
+**OBJECTIVE**
+
+Build an intelligent document assistant that allows users to ask natural-language questions about PDFs and receive context-grounded answers with citations.
+
+**LOADOUT**
+
+`Python` `PyMuPDF` `FAISS` `SentenceTransformers` `Ollama` `Streamlit`
+
+**BOSS DEFEATED**
+
+Document retrieval and contextual question answering.
+
 <br/>
 
-<!-- Connect With Me -->
+[![ENTER QUEST](https://img.shields.io/badge/ENTER_THE_DUNGEON-00F0FF?style=for-the-badge&labelColor=080A12)](https://github.com/QaziZaid16/Document-Q-A-System)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/QUEST_002-COMPLETED-A5FF00?style=for-the-badge&labelColor=080A12" />
+
+### 🤖 NEO-Z AI CHATBOT
+
+**MISSION TYPE:** Full-Stack / Generative AI
+
+**OBJECTIVE**
+
+Build an AI-powered chatbot with a modern interface, persistent conversations and multimodal capabilities.
+
+**LOADOUT**
+
+`React` `Vite` `Tailwind` `Node.js` `Express` `MongoDB` `OpenRouter` `Gemini Vision` `Web Serial API`
+
+**BOSS DEFEATED**
+
+Combining AI capabilities and full-stack application engineering.
+
+<br/>
+
+[![ENTER QUEST](https://img.shields.io/badge/ENTER_THE_DUNGEON-00F0FF?style=for-the-badge&labelColor=080A12)](https://github.com/QaziZaid16/neoz-ai-chatbot)
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-## 🤝 Connect With Me
+# `06 // GUILD & ALLIANCES`
 
-<a href="https://twitter.com/qazi__zaid" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+`NO GREAT QUEST IS COMPLETED ALONE`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/FACTION-01-FF4FA3?style=for-the-badge&labelColor=080A12" />
+
+## 🏰 D4 COMMUNITY
+
+**CO-ORGANIZER**
+
+Overseeing community operations, coordinating teams, and executing developer events and initiatives.
+
+[ENTER GUILD](https://d4community.com)
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/FACTION-02-A855F7?style=for-the-badge&labelColor=080A12" />
+
+## 🌐 GDG JALANDHAR
+
+**UI/UX DESIGNER**
+
+Contributing to community experiences through design, event creatives and developer activities.
+
+[EXPLORE COMMUNITY](https://gdg.community.dev/)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# `07 // ACHIEVEMENT VAULT`
+
+`COLLECTED KNOWLEDGE` · `BADGES UNLOCKED`
+
+</div>
+
+| ACHIEVEMENT | UNLOCKED THROUGH |
+|:---|:---|
+| 💎 VECTOR SEARCH ARCHITECT | MongoDB Vector Search |
+| 🔍 SEARCH EXPLORER | MongoDB Search |
+| ☁️ GENERATIVE INITIATE | AWS Academy Generative AI Foundations |
+| 🤖 AGENT APPRENTICE | Google AI Agents Intensive |
+| 🗃️ DATA MODELER | Relational Model to MongoDB |
+| 🧩 SCHEMA STRATEGIST | MongoDB Schema Design |
+| 🧠 AI EXPLORER | Accenture Digital Skills: AI |
+| 📚 DATABASE INITIATE | Introduction to MongoDB for Students |
+
+---
+
+<div align="center">
+
+# `08 // MULTIPLAYER LOBBY`
+
+<img src="https://img.shields.io/badge/MATCHMAKING-OPEN-00F0FF?style=for-the-badge&labelColor=080A12" />
+<img src="https://img.shields.io/badge/CO--OP-ENABLED-A5FF00?style=for-the-badge&labelColor=080A12" />
+
+### LOOKING FOR PARTY MEMBERS
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                  MULTIPLAYER MATCHMAKING                 ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  [01] AI & AGENTIC AI                                    ║
+║       Build intelligent systems and AI-powered products  ║
+║                                                          ║
+║  [02] OPEN SOURCE RAIDS                                  ║
+║       Collaborate, contribute and ship together          ║
+║                                                          ║
+║  [03] FULL-STACK EXPEDITIONS                             ║
+║       Turn ambitious ideas into working products        ║
+║                                                          ║
+║  [04] AUTOMATION LABS                                    ║
+║       APIs, workflows, integrations and experiments      ║
+║                                                          ║
+║  [05] COMMUNITY MISSIONS                                 ║
+║       Build spaces where developers grow together        ║
+║                                                          ║
+╠══════════════════════════════════════════════════════════╣
+║  PARTY STATUS : OPEN                                     ║
+║  EXPERIENCE   : ALL LEVELS                               ║
+║  CURIOSITY    : REQUIRED                                 ║
+║  CO-OP MODE   : ENABLED                                  ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+**Have a quest worth taking on together?**
+
+Open an issue, connect with me, or let's build something interesting.
+
+---
+
+<div align="center">
+
+# `09 // LIVE PLAYER TELEMETRY`
+
+`REAL DATA FROM THE GITHUB UNIVERSE`
+
+<br/>
+
+<a href="https://github.com/QaziZaid16">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=QaziZaid16&show_icons=true&hide_border=true&bg_color=080A12&title_color=00F0FF&icon_color=A5FF00&text_color=E6EAF2&rank_icon=github" />
 </a>
-<a href="https://linkedin.com/in/qazi-zaid-73a511209" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/sil3ntjazz" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:qazi.zaid16@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+
+<a href="https://github.com/QaziZaid16">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QaziZaid16&layout=compact&hide_border=true&bg_color=080A12&title_color=00F0FF&text_color=E6EAF2" />
 </a>
 
+<br/><br/>
+
+<a href="https://git.io/streak-stats">
+<img width="80%" src="https://streak-stats.demolab.com?user=QaziZaid16&theme=dark&hide_border=true&background=080A12&ring=A855F7&fire=FF4FA3&currStreakLabel=00F0FF&sideLabels=E6EAF2&dates=8792A8" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=QaziZaid16&bg_color=080A12&color=00F0FF&line=A5FF00&point=FF4FA3&area=true&hide_border=true" width="100%" />
+
 </div>
+
+---
+
+<div align="center">
+
+# `10 // CONTACT PORTAL`
+
+`CHOOSE YOUR CONNECTION`
 
 <br/>
 
-<!-- Profile Views & Trophies -->
-<div align="center">
+[![PORTFOLIO](https://img.shields.io/badge/🌌_PERSONAL_REALM-00F0FF?style=for-the-badge&labelColor=080A12)](https://zaid.d4community.com)
 
-## 🏆 GitHub Trophies
+[![GITHUB](https://img.shields.io/badge/⚔️_GITHUB_HQ-17133A?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/QaziZaid16)
 
-<img src="https://github-profile-trophy.vercel.app/?username=qazizaid16&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+[![LINKEDIN](https://img.shields.io/badge/🤝_ALLIANCE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/qazi-zaid/)
+
+[![INSTAGRAM](https://img.shields.io/badge/📸_VISUAL_LOGS-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/qazizaid.dev)
+
+[![X](https://img.shields.io/badge/🛰️_TRANSMISSION-000000?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/Qazi__Zaid)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=QaziZaid16&style=for-the-badge&color=00F0FF&label=REALM+VISITORS" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080A12,45:17133A,100:00F0FF&height=150&section=footer" width="100%" />
+
+### `GAME OVER? NEVER. NEW QUEST AVAILABLE.`
+
+**BUILD TOGETHER. GROW TOGETHER.**
+
+<sub>ZAID.EXE // PLAYER ONE // END OF TRANSMISSION</sub>
 
 </div>
-
-<br/>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=qazizaid16&label=Profile+Views&color=7c3aed&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/qazizaid16?label=Followers&style=for-the-badge&color=7c3aed)
-
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
